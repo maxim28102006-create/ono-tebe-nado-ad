@@ -1,3 +1,4 @@
+/* место для вашего кода */
 .header {
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
@@ -285,4 +286,4 @@
 .footer__socials-ul li img {
   width: 48px;
   height: 48px;
-
+}
